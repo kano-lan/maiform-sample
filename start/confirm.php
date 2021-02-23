@@ -78,7 +78,8 @@ EOT;
       <div class="row">
         <div class="col-9 offset-3">
           <a href="index.php">戻る</a>
-          <button type="submit">送信する</button>
+          <but type="submit">送信する</but
+          ton>
         </div>
       </div>
     </form>
